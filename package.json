@@ -1,0 +1,31 @@
+{
+  "name": "sanitize-header-log",
+  "version": "1.0.0",
+  "description": "sanitizes header cookie information for logging",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/.bin/ava test.js --verbose"
+  },
+  "keywords": [
+    "http",
+    "header",
+    "sanitize",
+    "logging"
+  ],
+  "author": "Chris Ross",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.15.1",
+    "eslint": "^2.10.2",
+    "eslint-config-xo-space": "^0.13.0",
+    "sinon": "^1.17.4"
+  },
+  "peerDependencies": {
+    "bole": "^2.x"
+  },
+  "eslintConfig": {
+    "extends": [
+      "xo-space"
+    ]
+  }
+}
