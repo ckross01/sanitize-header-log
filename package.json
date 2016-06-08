@@ -6,6 +6,10 @@
   "scripts": {
     "test": "node node_modules/.bin/ava test.js --verbose"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ckross01/sanitize-header-log.git"
+  },
   "keywords": [
     "http",
     "header",
