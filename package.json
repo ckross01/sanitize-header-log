@@ -25,7 +25,7 @@
     "sinon": "^1.17.4"
   },
   "peerDependencies": {
-    "bole": "^2.x"
+    "bole": "^3.x"
   },
   "eslintConfig": {
     "extends": [
