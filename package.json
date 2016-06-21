@@ -1,6 +1,6 @@
 {
   "name": "sanitize-header-log",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "sanitizes header cookie information for logging",
   "main": "index.js",
   "scripts": {
