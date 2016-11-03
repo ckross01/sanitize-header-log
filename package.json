@@ -4,7 +4,8 @@
   "description": "sanitizes header cookie information for logging",
   "main": "index.js",
   "scripts": {
-    "test": "node node_modules/.bin/ava test.js --verbose"
+    "test": "node node_modules/.bin/ava test.js --verbose",
+    "lint": "eslint ./*.js"
   },
   "repository": {
     "type": "git",
