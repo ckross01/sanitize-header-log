@@ -19,10 +19,10 @@
   "author": "Chris Ross",
   "license": "MIT",
   "devDependencies": {
-    "ava": "^0.15.1",
-    "eslint": "^2.10.2",
-    "eslint-config-xo-space": "^0.13.0",
-    "sinon": "^1.17.4"
+    "ava": "^0.16.0",
+    "eslint": "^3.9.1",
+    "eslint-config-xo-space": "^0.15.0",
+    "sinon": "^1.17.6"
   },
   "peerDependencies": {
     "bole": "^3.x"
