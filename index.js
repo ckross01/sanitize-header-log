@@ -2,6 +2,7 @@ module.exports = (req, logger, next) => {
   if (typeof next !== 'function') {
     console.warn('next needs to be a function');
   }
+
   logger({
     time: req.time,
     method: req.method,
